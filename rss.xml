@@ -4,16 +4,18 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 11:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 11:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
             <title><![CDATA[Hello World]]></title>
             <guid>83ae75eec6644e2d9c31cb31c3f5db0c</guid>
             <pubDate>Tue, 27 Jun 2023 11:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div><pre class="hljs"><code><span class="hljs-keyword">echo</span> <span class="hljs-string">"Hello World"</span>;</code></pre></div>
-<div><pre class="hljs"><code><span class="hljs-built_in">echo</span> Hello World</code></pre></div>
-<div><pre class="hljs"><code><span class="hljs-built_in">print</span>(<span class="hljs-string">"Hello World"</span>)</code></pre></div>
+            <content:encoded><![CDATA[<div><pre class="hljs"><code><span class="hljs-keyword">echo</span> <span class="hljs-string">"Hello World!"</span>;</code></pre></div>
+<div><pre class="hljs"><code><span class="hljs-built_in">echo</span> Hello World!</code></pre></div>
+<div><pre class="hljs"><code><span class="hljs-built_in">print</span>(<span class="hljs-string">"Hello World!"</span>)</code></pre></div>
+<div><pre class="hljs"><code><span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">"Hello World!"</span>)</code></pre></div>
+<p>Etc</p>
 ]]></content:encoded>
         </item>
     </channel>
